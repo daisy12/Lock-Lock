@@ -21,4 +21,3 @@ For detailed explanation on how things work, consult the [docs for vue-loader](h
 （1）基于数据驱动视图原理，虚拟DOM操作。                                                                                                 
 （2）vue.js+vuex+node.js进行模块化开发，实现数据的异步加载，数据双向绑定渲染单页面。                                                         
 （3）通过路由传参与嵌套，子组件与父组件之间的传值，解决购物车整体模块。  
-
