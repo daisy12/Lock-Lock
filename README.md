@@ -22,7 +22,7 @@ For detailed explanation on how things work, consult the [docs for vue-loader](h
 （2）vue.js+vuex+node.js进行模块化开发，实现数据的异步加载，数据双向绑定渲染单页面。                                                         
 （3）通过路由传参与嵌套，子组件与父组件之间的传值，解决购物车整体模块。  
 
-![](https://github.com/daisy12/Lock-Lock/tree/master/src/assets/image/eshop/1.png)
+![](https://github.com/daisy12/Lock-Lock/blob/master/src/assets/image/eshop/1.png)
 ![](https://github.com/daisy12/Lock-Lock/tree/master/src/assets/image/eshop/2.png)
 ![](https://github.com/daisy12/Lock-Lock/tree/master/src/assets/image/eshop/3.png)
 ![](https://github.com/daisy12/Lock-Lock/tree/master/src/assets/image/eshop/4.png)
