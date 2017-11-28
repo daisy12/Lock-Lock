@@ -20,7 +20,9 @@ For detailed explanation on how things work, consult the [docs for vue-loader](h
 基于前端工程化开发的移动端app，实现添加到购物车，提交订单，修改地址，新增地址，查看订单等功能。                                                 
 （1）基于数据驱动视图原理，虚拟DOM操作。                                                                                                 
 （2）vue.js+vuex+node.js进行模块化开发，实现数据的异步加载，数据双向绑定渲染单页面。                                                         
-（3）通过路由传参与嵌套，子组件与父组件之间的传值，解决购物车整体模块。  
+（3）通过路由传参与嵌套，子组件与父组件之间的传值，解决购物车整体模块。  
+
+（4）使用城市数据接口，通过vue跨域获取，将数据渲染在三级联动的下拉列表中。
 
 ![](https://github.com/daisy12/Lock-Lock/blob/master/src/assets/image/eshop/1.png)
 ![](https://github.com/daisy12/Lock-Lock/blob/master/src/assets/image/eshop/2.png)
